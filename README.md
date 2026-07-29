@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @EvanBrown4
-- I am currently a senior at Rice University pursuing my bachelors degree in computer science and statistics, with a minor in data science.
-- I am passionate about data science and working to create better algorithms and strategies to solve modern day problems.
-
-- I have always been interested in data science and analytics, trying to find new ways to look at data and new ways to predict outcomes.
-- I aspire to learn more about data science and machine learning and develop groundbreaking tools.
+- I am about to begin a new role at Air Space Intelligence working as a Software Engineer!
+- I recently graduated from Rice University with a Bachelor's in Computer Science and Statistics, plus a minor in Data Science.
+- I am passionate about data science and combining it with high quality software to solve modern day problems.
